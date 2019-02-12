@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bad824d-58f1-4bd8-a336-02e02eb7b5b5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1724405368">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.42" value="2" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="java" value="28933" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="28933" />
+          <entry key="PLAIN_TEXT" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="7" />
+          <entry key="java" value="191" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="191" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/schelet/src/Players/GreedyPlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/Players/BribePlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/Players/BasePlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/assets/Asset.java" />
+        <option value="$PROJECT_DIR$/schelet/src/main/Round.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/GoodsInHand.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/InHand.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/GFactory.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/IFactory.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Apple.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Cheese.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Bread.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Chicken.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Silk.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Pepper.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Barrel.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/GoodsFactory.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/MerchantBag.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/IDConverter.java" />
+        <option value="$PROJECT_DIR$/schelet/src/main/GameInput.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/MerchantStand.java" />
+        <option value="$PROJECT_DIR$/schelet/src/main/Game.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/BasePlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/goods/Goods.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/InHand.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/Player.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/WizardPlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/BribePlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/players/GreedyPlayer.java" />
+        <option value="$PROJECT_DIR$/schelet/src/main/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="292" />
+    <option name="y" value="44" />
+    <option name="width" value="1400" />
+    <option name="height" value="911" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tema1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schelet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tema1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schelet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tema1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schelet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tema1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schelet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tema1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schelet" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="players" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/adina/A2/POO/teme/tema1/schelet/src/goods/MerchantStand.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tema2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="schelet" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="987" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84173506" visible="true" weight="0.18777293" />
+      <window_info id="Structure" order="1" sideWeight="0.15826495" side_tool="true" visible="true" weight="0.18777293" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945414" weight="0.09730364" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50054586" side_tool="true" weight="0.09730364" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/BribePlayer.class" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/MerchantStand.class" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/WizardPlayer.class" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/InHand.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/MerchantBag.class" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/IDConverter.class" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Cheese.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Bread.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Chicken.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Silk.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Barrel.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Apple.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Pepper.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/GoodsFactory.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/IFactory.java" />
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/MerchantBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/IDConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/MerchantStand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/main/GameInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/main/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="65" column="77" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/goods/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/InHand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="174" column="63" selection-start-line="174" selection-start-column="63" selection-end-line="174" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="156" column="62" selection-start-line="156" selection-start-column="62" selection-end-line="156" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/WizardPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/BribePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/BasePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/players/GreedyPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schelet/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="74" column="73" lean-forward="true" selection-start-line="74" selection-start-column="73" selection-end-line="74" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="checkstyle-7.3-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/schelet/src/checker/checkstyle/checkstyle-7.3-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
