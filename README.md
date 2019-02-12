@@ -1,4 +1,4 @@
-#Sheriff of Nottingham
+# Sheriff of Nottingham
 
 
   Simulation of a board game (Sheriff of Nottingham). The project is organised
